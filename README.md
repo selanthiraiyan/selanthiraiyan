@@ -2,7 +2,6 @@
 
 [![Twitter: selanthiraiyan](https://img.shields.io/twitter/follow/selanthiraiyan?style=social)](https://twitter.com/selanthiraiyan)
 [![Linkedin: Sharma Elanthiraiyan](https://img.shields.io/badge/-selanthiraiyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/selanthiraiyan/)](https://www.linkedin.com/in/selanthiraiyan/)
-[![GitHub selanthiraiyan](https://img.shields.io/github/followers/selanthiraiyan?label=follow&style=social)](https://github.com/selanthiraiyan/)
 <br>
 
 
