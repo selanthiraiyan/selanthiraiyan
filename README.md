@@ -8,7 +8,7 @@
 ### Hello 👋 –  I'm Sharma Elanthiraiyan!
   
 
-- I am working at <a href="https://automattic.com/">Automattic</a> as an iOS Engineer.
+- I work at <a href="https://automattic.com/">Automattic</a> as an iOS Engineer.
 - I contribute in Stackoverflow and I go through open source (iOS) projects and try to learn/contribute. 
 - I speak Tamil and English.
 
