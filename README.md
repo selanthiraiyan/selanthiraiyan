@@ -9,7 +9,4 @@
   
 
 - I work at <a href="https://automattic.com/">Automattic</a> as an iOS Engineer.
-- I contribute in Stackoverflow and I go through open source (iOS) projects and try to learn/contribute. 
 - I speak Tamil and English.
-
-###### Kindly reach out if you need help with an Open source project.
