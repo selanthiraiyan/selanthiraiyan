@@ -8,5 +8,5 @@
 ### Hello 👋 –  I'm Sharma Elanthiraiyan!
   
 
-- I am an iOS Engineer.
+- I am a Senior Software Engineer.
 - I speak Tamil and English.
